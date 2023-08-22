@@ -8,7 +8,7 @@ Welcome to my Rock Paper Scissors game project! This simple yet engaging project
 
 1. Clone or download this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the project directory.
-3. Run the `rps_game.py` file using the command: `python rps_game.py`.
+3. Run the `main.py` file using the command: `python main.py`.
 4. Follow the on-screen instructions to choose your move (rock, paper, or scissors).
 5. The computer will randomly select its move, and the winner of the round will be determined based on the game rules.
 
