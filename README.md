@@ -20,7 +20,7 @@ Welcome to my Rock Paper Scissors game project! This simple yet engaging project
 
 ## Getting Involved
 
-If you're interested in exploring the code and learning more about how the game works, feel free to dive into the `rps_game.py` file. The code is well-documented, making it a great resource for those looking to understand basic Python programming and logic.
+If you're interested in exploring the code and learning more about how the game works, feel free to dive into the `main.py` file. The code is well-documented, making it a great resource for those looking to understand basic Python programming and logic.
 
 ## Future Enhancements
 
