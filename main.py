@@ -27,8 +27,9 @@ scissors = '''
 
 #Write your code below this line 👇
 import random
-shapes = [rock, paper, scissors]
 computer_choice = random.randint(0, 2)
+shapes = [rock, paper, scissors]
+
 
 choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper and 2 for Scissors."))
 print(shapes[choice])
